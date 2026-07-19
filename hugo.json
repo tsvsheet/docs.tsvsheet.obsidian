@@ -1,6 +1,6 @@
 {
-  "baseURL": "https://example.org/",
-  "title": "Project Documentation",
+  "baseURL": "https://tsvsheet.github.io/docs.tsvsheet.obsidian/",
+  "title": "tsvsheet.obsidian",
   "publishDir": "_site",
   "enableRobotsTXT": true,
   "markup": {
@@ -12,6 +12,6 @@
     }
   },
   "params": {
-    "description": "Public documentation for the project."
+    "description": "The tsvsheet Obsidian plugin — live sheet code blocks and a computed .tsvt spreadsheet view in your vault."
   }
 }
