@@ -1,5 +1,5 @@
 ---
-title: Home
+title: tsvsheet.obsidian
 ---
 
 **tsvsheet.obsidian** brings [tsvsheet](https://tsvsheet.com) — a spreadsheet for plain text — into [Obsidian](https://obsidian.md). The plugin embeds the tsvsheet engine (the Go implementation compiled to WebAssembly) and gives it two surfaces in your vault:
