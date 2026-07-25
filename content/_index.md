@@ -2,7 +2,7 @@
 title: tsvsheet.obsidian
 ---
 
-**tsvsheet.obsidian** brings [tsvsheet](https://tsvsheet.com) — a spreadsheet for plain text — into [Obsidian](https://obsidian.md). The plugin embeds the tsvsheet engine (the Go implementation compiled to WebAssembly) and gives it two surfaces in your vault:
+**tsvsheet.obsidian** brings [tsvsheet](https://tsvsheet.com) — a spreadsheet in plain text — into [Obsidian](https://obsidian.md). The plugin embeds the tsvsheet engine (the Go implementation compiled to WebAssembly) and gives it two surfaces in your vault:
 
 - **A `sheet` code block** — a fenced `sheet` block in any note renders as a live, read-only computed grid in Reading view, with the engine's diagnostics listed beneath the grid when there are any.
 - **A `.tsvt` file view** — opening a `.tsvt` file shows the computed spreadsheet, with a mode toggle in the view header:
